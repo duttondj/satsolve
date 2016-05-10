@@ -1,4 +1,3 @@
-# ECE 4524 Project 2
 # Danny Dutton
 # satsolve.py: This program takes in a CNF text file and determines a solution
 
